@@ -4,15 +4,13 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=night+owl+%F0%9F%8C%99;adhd-powered+hyperfocus+machine;building+stuff+that+matters;privacy+advocate+%F0%9F%94%90)](https://tta.lu)
-
 **`digital craftsman (developer / privacy enthusiast / automation junkie)`**
 
 <br>
 
-[![Website](https://img.shields.io/badge/tta.lu-000?style=for-the-badge&logo=safari&logoColor=A855F7)](https://tta.lu)
-[![Email](https://img.shields.io/badge/say%20hi-000?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:info@tta.lu)
-[![GitHub](https://img.shields.io/badge/omgnoe-000?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/omgnoe)
+[![Website](https://img.shields.io/badge/tta.lu-000?style=for-the-badge&logo=safari&logoColor=FFD700)](https://tta.lu)
+[![Email](https://img.shields.io/badge/say%20hi-000?style=for-the-badge&logo=gmail&logoColor=FF6B35)](mailto:info@tta.lu)
+[![GitHub](https://img.shields.io/badge/omgnoe-000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/omgnoe)
 
 </div>
 
@@ -36,7 +34,7 @@ const noe = {
 <td width="50%" align="center">
 
 <a href="https://apps.apple.com/lu/app/selloutai/id6751592448">
-<img src="https://img.shields.io/badge/SellOutAI-000?style=for-the-badge&logo=apple&logoColor=A855F7" alt="SellOutAI">
+<img src="https://img.shields.io/badge/SellOutAI-000?style=for-the-badge&logo=apple&logoColor=FFD700" alt="SellOutAI">
 </a>
 <br><br>
 **🤖 SellOutAI**
@@ -51,7 +49,7 @@ Snap a photo → get pro listings for eBay, Vinted & more.
 <td width="50%" align="center">
 
 <a href="https://apps.apple.com/lu/app/my-budget-buddy/id6745560702">
-<img src="https://img.shields.io/badge/Budget%20Buddy-000?style=for-the-badge&logo=apple&logoColor=A855F7" alt="Budget Buddy">
+<img src="https://img.shields.io/badge/Budget%20Buddy-000?style=for-the-badge&logo=apple&logoColor=FFD700" alt="Budget Buddy">
 </a>
 <br><br>
 **💰 My Budget Buddy**
@@ -74,7 +72,7 @@ Track spending, manage bills, hit savings goals.
 <tr>
 <td width="50%">
 
-**🔐 EchoChat** `released`
+🔐 **EchoChat** `released`
 <br>
 Zero-knowledge messenger. E2E encrypted.
 <br>No logs. No metadata. No bullshit.
@@ -84,7 +82,7 @@ Zero-knowledge messenger. E2E encrypted.
 </td>
 <td width="50%">
 
-**🏥 MediDoc** `building`
+🏥 **MediDoc** `building`
 <br>
 Medical appointments for LU/FR/DE/BE.
 <br>Because healthcare shouldn't be complicated.
@@ -94,7 +92,7 @@ Medical appointments for LU/FR/DE/BE.
 <tr>
 <td width="50%">
 
-**📈 QuantX** `building`
+📈 **QuantX** `building`
 <br>
 ML-powered trading bot.
 <br>Let the algorithms do the work.
@@ -102,7 +100,7 @@ ML-powered trading bot.
 </td>
 <td width="50%">
 
-**🎴 AI Grading** `building`
+🎴 **AI Grading** `building`
 <br>
 TCG card grading with computer vision.
 <br>Know what your cards are worth.
@@ -132,17 +130,17 @@ TCG card grading with computer vision.
 
 ---
 
-### 📊 stats for the nerds
+### 📊 stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omgnoe&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omgnoe&theme=dark&hide_border=true&background=0d1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FF6B35&currStreakNum=FFD700" alt="GitHub Streak">
 
 </div>
 
 ---
 
-### 🎸 when afk
+### 🐼 when afk
 
 ```
 🌙 night owl        🎹 piano & guitar        ☕ mass caffeine consumer
@@ -152,7 +150,7 @@ TCG card grading with computer vision.
 
 <div align="center">
 
-### 💜 support the grind
+### 🔥 support the grind
 
 building open-source privacy tools costs mass coffee
 
@@ -162,6 +160,6 @@ building open-source privacy tools costs mass coffee
 
 *"what's there to lose? it's not gonna kill me."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:FFD700&height=100&section=footer" width="100%">
 
 </div>
