@@ -1,67 +1,167 @@
-<h1 align="center">Hey, I'm Noe 🫠</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Night owl. Fast learner. ADHD-powered hyperfocus machine.</strong><br>
-  Building apps & automations from 🇱🇺 Luxembourg
-</p>
+<img src="banner.gif" alt="banner" width="100%">
 
-<p align="center">
-  <a href="https://tta.lu"><img src="https://img.shields.io/badge/TTA.lu-Website-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="mailto:info@tta.lu"><img src="https://img.shields.io/badge/Contact-info@tta.lu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<br><br>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=night+owl+%F0%9F%8C%99;adhd-powered+hyperfocus+machine;building+stuff+that+matters;privacy+advocate+%F0%9F%94%90)](https://tta.lu)
 
-### 🚀 What I'm Building
+**`digital craftsman (developer / privacy enthusiast / automation junkie)`**
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🔐 **[EchoChat](https://github.com/omgnoe/echochat-anonymous-messenger-app)** | Zero-knowledge encrypted messenger | ✅ Released |
-| 💰 **BudgetBuddy** | Personal finance app | ✅ Released, Update WIP |
-| 🏥 **MediDoc** | Medical appointment platform (LU/FR/DE/BE) | 🔨 In Development |
-| 🎴 **AI Grading App** | TCG card grading with AI | 🔨 In Development |
-| 📈 **QuantX** | ML-powered trading bot | 🔨 In Development |
+<br>
 
-<sub>+ multiple private automation tools & client projects</sub>
+[![Website](https://img.shields.io/badge/tta.lu-000?style=for-the-badge&logo=safari&logoColor=A855F7)](https://tta.lu)
+[![Email](https://img.shields.io/badge/say%20hi-000?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:info@tta.lu)
+[![GitHub](https://img.shields.io/badge/omgnoe-000?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/omgnoe)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana">
-</p>
-
-**Currently learning:** 🛡️ Cybersecurity
-
----
-
-### 🎸 Beyond Code
-
-```
-🌙 Night owl        🎹 Piano & Guitar        ☕ Coffee addict
+```js
+const noe = {
+    location: "Luxembourg 🇱🇺",
+    currentFocus: ["MediDoc", "QuantX", "AI Grading"],
+    askMeAbout: ["flutter", "privacy", "automation", "coffee"],
+    funFact: "I code better after midnight ☕"
+};
 ```
 
 ---
 
-### 💜 Support My Work
+### 📱 on the app store
 
-Building open-source privacy tools takes time and coffee. If you find my projects useful:
+<table>
+<tr>
+<td width="50%" align="center">
 
-**SOL:** `4twPuihvSABNLwDq3tvz3dFigx6X7EABBqrhfaSH4hmq`
+<a href="https://apps.apple.com/lu/app/selloutai/id6751592448">
+<img src="https://img.shields.io/badge/SellOutAI-000?style=for-the-badge&logo=apple&logoColor=A855F7" alt="SellOutAI">
+</a>
+<br><br>
+**🤖 SellOutAI**
+<br>
+AI-powered listing creator.
+<br>
+Snap a photo → get pro listings for eBay, Vinted & more.
+<br>
+<sub>Auto price estimation • Multi-language • Smart descriptions</sub>
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://apps.apple.com/lu/app/my-budget-buddy/id6745560702">
+<img src="https://img.shields.io/badge/Budget%20Buddy-000?style=for-the-badge&logo=apple&logoColor=A855F7" alt="Budget Buddy">
+</a>
+<br><br>
+**💰 My Budget Buddy**
+<br>
+Personal finance made simple.
+<br>
+Track spending, manage bills, hit savings goals.
+<br>
+<sub>100% offline • No cloud • Your data stays yours</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omgnoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats">
-</p>
+### ⚡ shipping rn
 
-<p align="center">
-  <em>"What's there to lose? It's not gonna kill me."</em>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+**🔐 EchoChat** `released`
+<br>
+Zero-knowledge messenger. E2E encrypted.
+<br>No logs. No metadata. No bullshit.
+<br>
+[![Repo](https://img.shields.io/badge/→_repo-1a1b27?style=flat-square&logo=github)](https://github.com/omgnoe/echochat-anonymous-messenger-app)
+
+</td>
+<td width="50%">
+
+**🏥 MediDoc** `building`
+<br>
+Medical appointments for LU/FR/DE/BE.
+<br>Because healthcare shouldn't be complicated.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📈 QuantX** `building`
+<br>
+ML-powered trading bot.
+<br>Let the algorithms do the work.
+
+</td>
+<td width="50%">
+
+**🎴 AI Grading** `building`
+<br>
+TCG card grading with computer vision.
+<br>Know what your cards are worth.
+
+</td>
+</tr>
+</table>
+
+<sub>+ private automation tools & client work that pays the bills</sub>
+
+---
+
+### 🛠️ weapons of choice
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+
+</div>
+
+**leveling up:** `cybersecurity` 🛡️
+
+---
+
+### 📊 stats for the nerds
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omgnoe&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak">
+
+</div>
+
+---
+
+### 🎸 when afk
+
+```
+🌙 night owl        🎹 piano & guitar        ☕ mass caffeine consumer
+```
+
+---
+
+<div align="center">
+
+### 💜 support the grind
+
+building open-source privacy tools costs mass coffee
+
+**SOL** `4twPuihvSABNLwDq3tvz3dFigx6X7EABBqrhfaSH4hmq`
+
+---
+
+*"what's there to lose? it's not gonna kill me."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer" width="100%">
+
+</div>
