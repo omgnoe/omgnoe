@@ -1,128 +1,130 @@
 <div align="center">
 
-<img src="banner.gif" alt="banner" width="100%">
+<img src="banner.png" alt="Noe Nei — building digital products that ship" width="100%">
 
 <br><br>
 
-**`digital craftsman (developer / privacy enthusiast / automation junkie)`**
+**`full-stack developer · founder · automation & AI · Luxembourg 🇱🇺`**
 
 <br>
 
-[![Website](https://img.shields.io/badge/tta.lu-000?style=for-the-badge&logo=safari&logoColor=FFD700)](https://tta.lu)
-[![Email](https://img.shields.io/badge/say%20hi-000?style=for-the-badge&logo=gmail&logoColor=FF6B35)](mailto:info@tta.lu)
+[![Website](https://img.shields.io/badge/omgnoe.com-000?style=for-the-badge&logo=vercel&logoColor=FFD700)](https://omgnoe.com)
+[![Work](https://img.shields.io/badge/see%20my%20work-000?style=for-the-badge&logo=safari&logoColor=FF6B35)](https://omgnoe.com/work)
 [![GitHub](https://img.shields.io/badge/omgnoe-000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/omgnoe)
 
 </div>
 
 ---
 
+I build digital products end-to-end — web platforms, native mobile apps and AI automations — and ship them. From database, payments and infrastructure to pixel-level frontend and App Store delivery. **39+ products shipped.**
+
 ```js
 const noe = {
+    role: "developer & founder",
     location: "Luxembourg 🇱🇺",
-    currentFocus: ["MediDoc", "QuantX", "AI Grading"],
-    askMeAbout: ["flutter", "privacy", "automation", "coffee"],
-    funFact: "I code better after midnight ☕"
+    currentFocus: ["Salonify", "Luxpos", "Doctomap"],
+    askMeAbout: ["next.js", "flutter", "stripe", "automation", "privacy", "ai"],
+    motto: "ideas → shipped products that people actually use",
 };
 ```
 
 ---
 
+### 🚀 products i've built
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**💇 [Salonify](https://salonify.eu)** `live`
+<br>
+Booking & POS marketplace for salons. Stripe Connect, loyalty, native apps. Live across EU & Asia.
+
+</td>
+<td width="33%" valign="top">
+
+**🍽️ [Luxpos](https://luxpos.lu)** `live`
+<br>
+Modern POS for hospitality & retail. Floor plans, KDS, Tap to Pay on iPhone.
+
+</td>
+<td width="33%" valign="top">
+
+**🏥 [Doctomap](https://doctomap.lu)** `live`
+<br>
+Find & book doctors in Luxembourg. Real-time availability, teleconsultation, Wazuh-monitored.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🔐 [EchoChat](https://github.com/omgnoe/echochat-anonymous-messenger-app)** `live`
+<br>
+Zero-knowledge messenger. E2E encrypted. No accounts, no logs, no metadata.
+
+</td>
+<td width="33%" valign="top">
+
+**🧑‍💼 [RookieJobs](https://rookiejobs.com)** `live`
+<br>
+Job board for beginners. Verified beginner-friendly listings, transparent salaries.
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 [SellOut AI](https://apps.apple.com/lu/app/selloutai/id6751592448)** `live`
+<br>
+Snap → AI listing. Computer vision + LLM turn a photo into a pro listing in seconds.
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 📱 on the app store
 
-<table>
-<tr>
-<td width="50%" align="center">
+[![SellOutAI](https://img.shields.io/badge/SellOut%20AI-000?style=for-the-badge&logo=apple&logoColor=FFD700)](https://apps.apple.com/lu/app/selloutai/id6751592448)
+[![Budget Buddy](https://img.shields.io/badge/My%20Budget%20Buddy-000?style=for-the-badge&logo=apple&logoColor=FF6B35)](https://apps.apple.com/lu/app/my-budget-buddy/id6745560702)
 
-<a href="https://apps.apple.com/lu/app/selloutai/id6751592448">
-<img src="https://img.shields.io/badge/SellOutAI-000?style=for-the-badge&logo=apple&logoColor=FFD700" alt="SellOutAI">
-</a>
-<br><br>
-**🤖 SellOutAI**
+**🤖 SellOut AI** — AI-powered listings for eBay, Vinted & more · auto price estimation · multi-language
 <br>
-AI-powered listing creator.
-<br>
-Snap a photo → get pro listings for eBay, Vinted & more.
-<br>
-<sub>Auto price estimation • Multi-language • Smart descriptions</sub>
-
-</td>
-<td width="50%" align="center">
-
-<a href="https://apps.apple.com/lu/app/my-budget-buddy/id6745560702">
-<img src="https://img.shields.io/badge/Budget%20Buddy-000?style=for-the-badge&logo=apple&logoColor=FFD700" alt="Budget Buddy">
-</a>
-<br><br>
-**💰 My Budget Buddy**
-<br>
-Personal finance made simple.
-<br>
-Track spending, manage bills, hit savings goals.
-<br>
-<sub>100% offline • No cloud • Your data stays yours</sub>
-
-</td>
-</tr>
-</table>
+**💰 My Budget Buddy** — personal finance, fully offline · track spending, bills & savings · your data stays yours
 
 ---
 
-### ⚡ shipping rn
+### 🏢 client work
 
-<table>
-<tr>
-<td width="50%">
+Websites, shops, back offices and POS systems delivered for brands across Luxembourg & Europe — ABSAAR, Home Center, Dynapharm (full warehouse + logistics automation: scanner picking, auto-invoicing with bank reconciliation, DHL labels), DSPImmo, BarberTruck, O2NAILS, Nexa.
 
-🔐 **EchoChat** `released`
-<br>
-Zero-knowledge messenger. E2E encrypted.
-<br>No logs. No metadata. No bullshit.
-<br>
-[![Repo](https://img.shields.io/badge/→_repo-1a1b27?style=flat-square&logo=github)](https://github.com/omgnoe/echochat-anonymous-messenger-app)
-
-</td>
-<td width="50%">
-
-🏥 **MediDoc** `building`
-<br>
-Medical appointments for LU/FR/DE/BE.
-<br>Because healthcare shouldn't be complicated.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-📈 **QuantX** `building`
-<br>
-ML-powered trading bot.
-<br>Let the algorithms do the work.
-
-</td>
-<td width="50%">
-
-🎴 **AI Grading** `building`
-<br>
-TCG card grading with computer vision.
-<br>Know what your cards are worth.
-
-</td>
-</tr>
-</table>
-
-<sub>+ private automation tools & client work that pays the bills</sub>
+➡️ **[omgnoe.com/work](https://omgnoe.com/work)**
 
 ---
 
-### 🛠️ weapons of choice
+### 🧪 in the lab
+
+`QuantX` ML-powered trading bot · `AI Grading` TCG card grading with computer vision · + private automation tools
+
+---
+
+### 🛠️ stack
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
 </div>
 
@@ -134,29 +136,18 @@ TCG card grading with computer vision.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omgnoe&theme=dark&hide_border=true&background=0d1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FF6B35&currStreakNum=FFD700" alt="GitHub Streak">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=omgnoe&show_icons=true&hide_border=true&theme=transparent&title_color=FFD700&icon_color=FF6B35&text_color=c9d1d9" alt="GitHub stats">
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=omgnoe&theme=dark&hide_border=true&background=00000000&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FF6B35&currStreakNum=FFD700" alt="GitHub Streak">
 
 </div>
 
 ---
 
-### 🐼 when afk
-
-```
-🌙 night owl        🎹 piano & guitar        ☕ mass caffeine consumer
-```
-
----
-
 <div align="center">
 
-### 🔥 support the grind
-
-building open-source privacy tools costs mass coffee
-
-**SOL** `4twPuihvSABNLwDq3tvz3dFigx6X7EABBqrhfaSH4hmq`
-
----
+```
+🌙 night owl        🎹 piano & guitar        ☕ runs on caffeine
+```
 
 *"what's there to lose? it's not gonna kill me."*
 
